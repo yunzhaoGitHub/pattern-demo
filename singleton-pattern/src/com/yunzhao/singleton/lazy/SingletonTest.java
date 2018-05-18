@@ -95,10 +95,10 @@ public class SingletonTest {
             constructor.setAccessible(true);
             // 暴力初始化
             Object obj1 = constructor.newInstance();
+            System.out.println(obj1);
             // 调用两次构造方法，相当于new两次
             Object obj2 = constructor.newInstance();
             Object obj3 = constructor.newInstance();
-            System.out.println(obj1);
             System.out.println(obj2);
 
         } catch (Exception e) {

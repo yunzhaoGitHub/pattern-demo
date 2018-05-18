@@ -11,7 +11,7 @@ package com.yunzhao.singleton.lazy;
 
 public class LazySingletonThree {
 
-    private boolean initialized = false;
+    private static boolean initialized = false;
 
     private LazySingletonThree(){
         synchronized (LazySingletonThree.class){
