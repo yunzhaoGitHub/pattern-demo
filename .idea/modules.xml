@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delegate-pattern/delegate-pattern.iml" filepath="$PROJECT_DIR$/delegate-pattern/delegate-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern-demo.iml" filepath="$PROJECT_DIR$/pattern-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" filepath="$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" filepath="$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" filepath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" />
     </modules>
   </component>
 </project>
