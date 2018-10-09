@@ -11,6 +11,8 @@ public class Leader implements ITarget {
     public Leader() {
         targets.put("登录", new TargetA());
         targets.put("注册", new TargetB());
+        System.out.println("11111");
+
     }
 
     @Override
